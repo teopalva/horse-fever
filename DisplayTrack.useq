@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.3" icons="true">  
+  <object id="1" language="java" name="it.polimi.provaFinale2013.model.FamilyGame" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/FamilyGame.java" 
+    binary="false" label="familyGame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="157" y="0"/>    
+    <execution id="2">      
+      <position height="302" width="153" x="5" y="99"/>    
+    </execution>  
+  </object>  
+  <object id="5" language="java" name="it.polimi.provaFinale2013.graphics.GUIPlayer" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/GUIPlayer.java" 
+    binary="false" label="guiPlayer" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="333" y="0"/>    
+    <execution id="4">      
+      <position height="260" width="164" x="162" y="120"/>    
+    </execution>  
+  </object>  
+  <object id="8" language="java" name="it.polimi.provaFinale2013.graphics.MainWindow" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/MainWindow.java" 
+    binary="false" label="mainWindow" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="370" y="0"/>    
+    <execution id="7">      
+      <position height="218" width="164" x="330" y="141"/>    
+    </execution>  
+  </object>  
+  <object id="11" language="java" name="it.polimi.provaFinale2013.graphics.TrackWindow" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/TrackWindow.java" 
+    binary="false" label="trackWindow" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="603" y="0"/>    
+    <execution id="10">      
+      <position height="176" width="164" x="498" y="162"/>    
+    </execution>    
+    <execution id="18">      
+      <position height="168" width="164" x="498" y="359"/>    
+    </execution>    
+    <execution id="20">      
+      <position height="21" width="164" x="498" y="401"/>    
+    </execution>    
+    <execution id="17">      
+      <position height="21" width="164" x="498" y="296"/>    
+    </execution>  
+  </object>  
+  <object id="25" language="java" name="it.polimi.provaFinale2013.graphics.TrackWindow.Interpolator" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/TrackWindow.java" 
+    binary="false" label="interpolator" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="603" y="0"/>    
+    <execution id="13">      
+      <position height="21" width="164" x="666" y="183"/>    
+    </execution>    
+    <execution id="22">      
+      <position height="21" width="164" x="666" y="446"/>    
+    </execution>    
+    <execution id="24">      
+      <position height="21" width="7" x="745" y="485"/>    
+    </execution>    
+    <execution id="15">      
+      <position height="21" width="164" x="666" y="225"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="displayTrack(it.polimi.provaFinale2013.model.Track):int">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="6" operation="displayTrack(it.polimi.provaFinale2013.model.Track):void">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="7"/>  
+  </message>  
+  <message id="9" operation="updateHorses(it.polimi.provaFinale2013.model.Track):void">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="12" operation="setNewPosition(int,int,int):void">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="14" operation="start():void">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="16" operation="repaint(java.awt.Rectangle):void" x="628" y="278">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="19" operation="paintComponent(java.awt.Graphics):void" x="632" y="382">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="20"/>  
+  </message>  
+  <message id="21" operation="getXPosition():int">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="22"/>  
+  </message>  
+  <message id="23" operation="getYPosition():int">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="24"/>  
+  </message>
+</sequence-diagram>

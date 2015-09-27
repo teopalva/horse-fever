@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements>
+	<cards>
+		<card>
+			<type>STABLE_OWNER</type>
+			<image>/FamilyGame/Scuderia/horseFever-55.jpg</image>
+        	<name>Virtus Alba</name>
+        	<stable>6</stable>
+		</card>
+		<card>
+			<type>STABLE_OWNER</type>
+			<image>/FamilyGame/Scuderia/horseFever-56.jpg</image>
+        	<name>The Blue Blood</name>
+        	<stable>2</stable>
+		</card>
+		<card>
+			<type>STABLE_OWNER</type>
+			<image>/FamilyGame/Scuderia/horseFever-57.jpg</image>
+        	<name>L'Ardor Giallo</name>
+        	<stable>5</stable>
+		</card>
+		<card>
+			<type>STABLE_OWNER</type>
+			<image>/FamilyGame/Scuderia/horseFever-58.jpg</image>
+        	<name>Die Swarz Mond</name>
+        	<stable>1</stable>
+		</card>
+		<card>
+			<type>STABLE_OWNER</type>
+			<image>/FamilyGame/Scuderia/horseFever-59.jpg</image>
+        	<name>El Fragor Rojo</name>
+        	<stable>4</stable>
+		</card>
+		<card>
+			<type>STABLE_OWNER</type>
+			<image>/FamilyGame/Scuderia/horseFever-60.jpg</image>
+        	<name>La Gloire Vert</name>
+        	<stable>3</stable>
+		</card>
+		
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniPositive/horseFever-0.jpg</image>
+        	<name>Magna Velocitas</name>
+        	<number>01</number>
+        	<letter>A</letter>
+		</card>
+				<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniPositive/horseFever-1.jpg</image>
+        	<name>Fortuna Benevola</name>
+        	<number>02</number>
+        	<letter>B</letter>
+		</card>
+				<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniPositive/horseFever-2.jpg</image>
+        	<name>Flagellum Fulguris</name>
+        	<number>03</number>
+        	<letter>C</letter>
+		</card>
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniPositive/horseFever-3.jpg</image>
+        	<name>Herba Magica</name>
+        	<number>04</number>
+        	<letter>D</letter>
+		</card>
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniPositive/horseFever-4.jpg</image>
+        	<name>In Igni Veritas</name>
+        	<number>05</number>
+        	<letter>F</letter>
+		</card>
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniPositive/horseFever-5.jpg</image>
+        	<name>Fustis et Radix</name>
+        	<number>06</number>
+        	<letter>E</letter>
+		</card>
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniPositive/horseFever-6.jpg</image>
+        	<name>Vigor Ferreum</name>
+        	<number>07</number>
+        	<letter>G</letter>
+		</card>
+		
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniNegative/horseFever-7.jpg</image>
+        	<name>Globus Obscurus</name>
+        	<number>08</number>
+        	<letter>A</letter>
+		</card>
+				<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniNegative/horseFever-8.jpg</image>
+        	<name>Aqua Putrida</name>
+        	<number>09</number>
+        	<letter>B</letter>
+		</card>
+				<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniNegative/horseFever-9.jpg</image>
+        	<name>Serum Maleficum</name>
+        	<number>10</number>
+        	<letter>C</letter>
+		</card>
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniNegative/horseFever-10.jpg</image>
+        	<name>Venenum Veneficum</name>
+        	<number>11</number>
+        	<letter>D</letter>
+		</card>
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniNegative/horseFever-11.jpg</image>
+        	<name>Mala Tempora</name>
+        	<number>12</number>
+        	<letter>F</letter>
+		</card>
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniNegative/horseFever-12.jpg</image>
+        	<name>XIII</name>
+        	<number>13</number>
+        	<letter>E</letter>
+		</card>
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniNegative/horseFever-13.jpg</image>
+        	<name>Felix Infernalis</name>
+        	<number>14</number>
+        	<letter>G</letter>
+		</card>
+		
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniNeutre/horseFever-14.jpg</image>
+        	<name>Alfio Allibratore</name>
+        	<number>15</number>
+		</card>
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniNeutre/horseFever-15.jpg</image>
+        	<name>Friz Finden</name>
+        	<number>16</number>
+		</card>
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniNeutre/horseFever-18.jpg</image>
+        	<name>Steven Sting</name>
+        	<number>19</number>
+		</card>
+		<card>
+			<type>ACTION</type>
+			<image>/FamilyGame/AzioniNeutre/horseFever-19.jpg</image>
+        	<name>Rochelle Recherche</name>
+        	<number>20</number>
+		</card>
+		<card>
+			<type>CHARACTER</type>
+			<image>/FamilyGame/Personaggi/horseFever-71.jpg</image>
+        	<name>Cranio Mercanti</name>
+        	<danari>3400</danari>
+        	<stableQuotation>2</stableQuotation>
+		</card>
+		<card>
+			<type>CHARACTER</type>
+			<image>/FamilyGame/Personaggi/horseFever-72.jpg</image>
+        	<name>Steve Mc Skull</name>
+        	<danari>3600</danari>
+        	<stableQuotation>3</stableQuotation>
+		</card>
+		<card>
+			<type>CHARACTER</type>
+			<image>/FamilyGame/Personaggi/horseFever-73.jpg</image>
+        	<name>Victor Von Schadel</name>
+        	<danari>3800</danari>
+        	<stableQuotation>4</stableQuotation>
+		</card>
+		<card>
+			<type>CHARACTER</type>
+			<image>/FamilyGame/Personaggi/horseFever-74.jpg</image>
+        	<name>Cesar Crane</name>
+        	<danari>4000</danari>
+        	<stableQuotation>5</stableQuotation>
+		</card>
+		<card>
+			<type>CHARACTER</type>
+			<image>/FamilyGame/Personaggi/horseFever-76.jpg</image>
+        	<name>Craneo Cervantes</name>
+        	<danari>4400</danari>
+        	<stableQuotation>7</stableQuotation>
+		</card>
+		<card>
+			<type>CHARACTER</type>
+			<image>/FamilyGame/Personaggi/horseFever-75.jpg</image>
+        	<name>Sigvard Skalle</name>
+        	<danari>4200</danari>
+        	<stableQuotation>6</stableQuotation>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-83.jpg</image>
+			<numbers>3 3 2 2 2 2</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-84.jpg</image>
+			<numbers>3 2 3 2 2 2</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-85.jpg</image>
+			<numbers>3 2 2 3 2 2</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-86.jpg</image>
+			<numbers>3 2 2 2 3 2</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-87.jpg</image>
+			<numbers>2 2 2 2 3 3</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-88.jpg</image>
+			<numbers>2 2 2 3 2 3</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-89.jpg</image>
+			<numbers>2 2 3 2 2 3</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-90.jpg</image>
+			<numbers>2 3 2 2 2 3</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-91.jpg</image>
+			<numbers>2 3 2 2 3 2</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-92.jpg</image>
+			<numbers>2 3 2 2 3 2</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-93.jpg</image>
+			<numbers>2 3 3 2 2 2</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-94.jpg</image>
+			<numbers>3 2 2 2 2 3</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-95.jpg</image>
+			<numbers>2 2 3 3 2 2</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-96.jpg</image>
+			<numbers>2 2 3 2 3 2</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-97.jpg</image>
+			<numbers>2 2 2 3 3 2</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-98.jpg</image>
+			<numbers>3 3 2 2 2 2</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-99.jpg</image>
+			<numbers>4 3 2 2 2 2</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-100.jpg</image>
+			<numbers>4 2 2 2 2 0</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-101.jpg</image>
+			<numbers>2 2 2 2 1 0</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-102.jpg</image>
+			<numbers>2 2 2 2 1 1</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-103.jpg</image>
+			<numbers>3 2 2 2 2 1</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-104.jpg</image>
+			<numbers>2 2 3 1 2 2</numbers>
+		</card>
+		<card>
+			<type>MOVEMENT</type>
+			<image>/FamilyGame/Movimento/horseFever-105.jpg</image>
+			<numbers>2 4 2 2 0 2</numbers>
+		</card>
+		
+	</cards>
+	
+	<track>
+		<image>/FamilyGame/Tabellone.jpg</image>
+	</track>
+	
+	<stableTokens>
+		<stableToken>
+			<number>1</number>
+			<image>/FamilyGame/SegnaliniQuotazioniScuderie/SegnalinoQuotazioniScuderiaNera.jpg</image>
+		</stableToken>
+		<stableToken>
+			<number>2</number>
+			<image>/FamilyGame/SegnaliniQuotazioniScuderie/SegnalinoQuotazioniScuderiaBlu.jpg</image>
+		</stableToken>
+		<stableToken>
+			<number>3</number>
+			<image>/FamilyGame/SegnaliniQuotazioniScuderie/SegnalinoQuotazioniScuderiaVerde.jpg</image>
+		</stableToken>
+		<stableToken>
+			<number>4</number>
+			<image>/FamilyGame/SegnaliniQuotazioniScuderie/SegnalinoQuotazioniScuderiaRossa.jpg</image>
+		</stableToken>
+		<stableToken>
+			<number>5</number>
+			<image>/FamilyGame/SegnaliniQuotazioniScuderie/SegnalinoQuotazioniScuderiaGialla.jpg</image>
+		</stableToken>
+		<stableToken>
+			<number>6</number>
+			<image>/FamilyGame/SegnaliniQuotazioniScuderie/SegnalinoQuotazioniScuderiaBianca.jpg</image>
+		</stableToken>
+	</stableTokens>
+	
+	<betTokens> 
+		<betToken> 
+			<horse>1</horse>
+			<WinImage>/FamilyGame/SegnaliniScommessa/VincenteNero.jpg</WinImage>
+			<ShowImage>/FamilyGame/SegnaliniScommessa/PiazzataNero.jpg</ShowImage>
+		</betToken> 
+		<betToken> 
+			<horse>2</horse>
+			<WinImage>/FamilyGame/SegnaliniScommessa/VincenteBlu.jpg</WinImage>
+			<ShowImage>/FamilyGame/SegnaliniScommessa/PiazzataBlu.jpg</ShowImage>
+		</betToken> 
+		<betToken> 
+			<horse>3</horse>
+			<WinImage>/FamilyGame/SegnaliniScommessa/VincenteVerde.jpg</WinImage>
+			<ShowImage>/FamilyGame/SegnaliniScommessa/PiazzataVerde.jpg</ShowImage>
+		</betToken> 
+		<betToken> 
+			<horse>4</horse>
+			<WinImage>/FamilyGame/SegnaliniScommessa/VincenteRosso.jpg</WinImage>
+			<ShowImage>/FamilyGame/SegnaliniScommessa/PiazzataRosso.jpg</ShowImage>
+		</betToken> 
+		<betToken> 
+			<horse>5</horse>
+			<WinImage>/FamilyGame/SegnaliniScommessa/VincenteGiallo.jpg</WinImage>
+			<ShowImage>/FamilyGame/SegnaliniScommessa/PiazzataGiallo.jpg</ShowImage>
+		</betToken> 
+		<betToken> 
+			<horse>6</horse>
+			<WinImage>/FamilyGame/SegnaliniScommessa/VincenteBianco.jpg</WinImage>
+			<ShowImage>/FamilyGame/SegnaliniScommessa/PiazzataBianco.jpg</ShowImage>
+		</betToken> 
+	</betTokens>
+	
+</elements>

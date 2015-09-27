@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="it.polimi.provaFinale2013.model.Card" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/Card.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="144" x="1895" y="1642"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="it.polimi.provaFinale2013.model.CharacterCard" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/CharacterCard.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="161" x="1459" y="2015"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="it.polimi.provaFinale2013.model.StableOwnerCard" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/StableOwnerCard.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="398" x="1021" y="2015"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="it.polimi.provaFinale2013.model.Game" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/Game.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="195" x="42" y="662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="it.polimi.provaFinale2013.model.BetToken" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/BetToken.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="142" x="839" y="2015"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="it.polimi.provaFinale2013.model.BetTokenManager" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/BetTokenManager.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="343" x="277" y="662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="it.polimi.provaFinale2013.model.ActionCard" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/ActionCard.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="155" x="644" y="2015"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="it.polimi.provaFinale2013.model.PlayersQueue" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/PlayersQueue.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="160" x="1319" y="662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="it.polimi.provaFinale2013.model.Banknote" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/Banknote.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="142" x="397" y="2015"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="10" language="java" name="it.polimi.provaFinale2013.model.Stable" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/Stable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="162" x="836" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="11" language="java" name="it.polimi.provaFinale2013.model.Factory" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/Factory.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="567" width="296" x="1935" y="662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="it.polimi.provaFinale2013.model.BlackBoard" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/BlackBoard.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="243" x="660" y="662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="it.polimi.provaFinale2013.model.Wallet" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/Wallet.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="197" x="397" y="1341"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="it.polimi.provaFinale2013.model.AbstractPlayer" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/AbstractPlayer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="315" x="943" y="662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="it.polimi.provaFinale2013.model.BetManager" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/BetManager.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="271" x="1519" y="662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="it.polimi.provaFinale2013.model.BetContainer" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/BetContainer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="144" x="1359" y="1341"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="it.polimi.provaFinale2013.model.Track" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/Track.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="639" width="355" x="2281" y="662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="it.polimi.provaFinale2013.model.MovementCard" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/MovementCard.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="269" x="2388" y="2015"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="it.polimi.provaFinale2013.model.Bet" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/Bet.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="171" x="808" y="1642"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="20" language="java" name="it.polimi.provaFinale2013.model.RemoteBank" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/RemoteBank.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="266" x="1660" y="2015"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="21" language="java" name="it.polimi.provaFinale2013.model.Player" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/Player.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="245" x="1304" y="1642"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="22" language="java" name="it.polimi.provaFinale2013.model.Deck" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/Deck.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="143" x="1895" y="1341"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="23" language="java" name="it.polimi.provaFinale2013.model.GameObserver" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/GameObserver.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="195" x="1103" y="1341"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="24" language="java" name="it.polimi.provaFinale2013.model.FamilyGame" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/FamilyGame.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="585" width="200" x="1832" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="it.polimi.provaFinale2013.model.Action" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/Action.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="160" x="587" y="1642"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="it.polimi.provaFinale2013.model.Bank" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/Bank.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="266" x="1589" y="1642"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="it.polimi.provaFinale2013.model.CLIPlayer" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/CLIPlayer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="288" x="634" y="1341"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="28">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="29" name="actionDeck"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="32">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="33" name="actionDeck"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <bendpoint x="1820" y="662"/>    
+    <bendpoint x="1820" y="1341"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="36" name="bank"/>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="39" name="danari"/>      
+      <multiplicity id="40" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <realization id="41">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="23"/>  
+  </realization>  
+  <association id="42">    
+    <bendpoint x="1051" y="1341"/>    
+    <bendpoint x="1051" y="1642"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="43" name="characterCard"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <bendpoint x="427" y="1642"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="46" name="banknotes500"/>      
+      <multiplicity id="47" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="49" name="betManager"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <bendpoint x="952" y="1341"/>    
+    <bendpoint x="777" y="1642"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="52" name="actionCards"/>      
+      <multiplicity id="53" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="55" name="stableDeck"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="58" name="characterDeck"/>      
+      <multiplicity id="59" minimum="0" maximum="1">        
+        <position height="16" width="23" x="1932" y="1283"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <bendpoint x="1009" y="1642"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="61" name="bank"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <realization id="63">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <association id="64">    
+    <bendpoint x="1883" y="662"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="65" name="movementDeck"/>      
+      <multiplicity id="66" minimum="0" maximum="1">        
+        <position height="16" width="23" x="1942" y="1260"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <realization id="67">    
+    <bendpoint x="1072" y="1341"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <generalization id="68">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="69">    
+    <bendpoint x="2223" y="1141"/>    
+    <bendpoint x="2264" y="1141"/>    
+    <bendpoint x="2265" y="1110"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="70" name="factory"/>      
+      <multiplicity id="71" minimum="0" maximum="1">        
+        <position height="16" width="23" x="2238" y="1105"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <realization id="72">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <association id="73">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="74" name="bet"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="76">    
+    <bendpoint x="1862" y="662"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="77" name="actionDeck"/>      
+      <multiplicity id="78" minimum="0" maximum="1">        
+        <position height="16" width="23" x="1958" y="1327"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="79">    
+    <bendpoint x="1030" y="1341"/>    
+    <bendpoint x="1030" y="1642"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="80" name="stableOwnerCard"/>      
+      <multiplicity id="81" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="82">    
+    <bendpoint x="1841" y="662"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="83" name="stableDeck"/>      
+      <multiplicity id="84" minimum="0" maximum="1">        
+        <position height="16" width="23" x="1915" y="1319"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="85">    
+    <bendpoint x="2666" y="662"/>    
+    <bendpoint x="2666" y="1341"/>    
+    <bendpoint x="2624" y="1642"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="86" name="remoteBank"/>      
+      <multiplicity id="87" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="88">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="89" name="bets"/>      
+      <multiplicity id="90" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <bendpoint x="2645" y="1341"/>    
+    <bendpoint x="2645" y="1642"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="92" name="lastMovementCard"/>      
+      <multiplicity id="93" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="94">    
+    <bendpoint x="1533" y="1341"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="95" name="playerStableOwner"/>      
+      <multiplicity id="96" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <bendpoint x="1288" y="662"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="98" name="observers"/>      
+      <multiplicity id="99" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="100">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="101" name="wallet"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <bendpoint x="1904" y="662"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="104" name="characterDeck"/>      
+      <multiplicity id="105" minimum="0" maximum="1">        
+        <position height="16" width="23" x="1970" y="1281"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="106">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="107" name="betToken"/>      
+      <multiplicity id="108" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <generalization id="109">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="110">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="111">    
+    <bendpoint x="406" y="1642"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="112" name="banknotes100"/>      
+      <multiplicity id="113" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <bendpoint x="1563" y="1341"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="115" name="bank"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="118" name="blackBoard"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="121" name="container"/>      
+      <multiplicity id="122" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="123">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="124" name="betTokens"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="126">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="127" name="actionCard"/>      
+      <multiplicity id="128" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="129">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="130" name="track"/>      
+      <multiplicity id="131" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="132">    
+    <bendpoint x="385" y="1642"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="133" name="banknotes1000"/>      
+      <multiplicity id="134" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="135">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="136" name="players"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="138">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="139" name="player"/>      
+      <multiplicity id="140" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="141">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="142" name="movementDeck"/>      
+      <multiplicity id="143" minimum="0" maximum="1">        
+        <position height="16" width="23" x="1966" y="1302"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <generalization id="144">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <generalization id="145">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="146">    
+    <bendpoint x="1328" y="1341"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="147" name="players"/>      
+      <multiplicity id="148" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="false" multiplicity="true"/>
+</class-diagram>

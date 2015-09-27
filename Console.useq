@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.3" icons="true">  
+  <object id="1" language="java" name="it.polimi.provaFinale2013.graphics.ConsoleWindow" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/ConsoleWindow.java" 
+    binary="false" label="consoleWindow" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="73" y="0"/>    
+    <execution id="2">      
+      <position height="182" width="164" x="5" y="78"/>    
+    </execution>  
+  </object>  
+  <object id="11" language="java" name="it.polimi.provaFinale2013.model.CLIPlayer" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/CLIPlayer.java" 
+    binary="false" label="cliPlayer" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="21" y="0"/>    
+    <execution id="10">      
+      <position height="21" width="153" x="173" y="218"/>    
+    </execution>    
+    <execution id="12">      
+      <position height="115" width="153" x="173" y="499"/>    
+    </execution>    
+    <execution id="17">      
+      <position height="138" width="153" x="173" y="642"/>    
+    </execution>  
+  </object>  
+  <object id="20" language="java" name="it.polimi.provaFinale2013.graphics.console.Console" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/console/Console.java" 
+    binary="false" label="console" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="306" y="0"/>    
+    <execution id="6">      
+      <position height="21" width="203" x="173" y="126"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="21" width="203" x="173" y="168"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="21" width="203" x="330" y="99"/>    
+    </execution>    
+    <execution id="21">      
+      <position height="166" width="203" x="330" y="316"/>    
+    </execution>    
+    <execution id="24">      
+      <position height="21" width="7" x="428" y="398"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="229" width="203" x="330" y="274"/>    
+    </execution>    
+    <execution id="27">      
+      <position height="21" width="203" x="330" y="717"/>    
+    </execution>  
+  </object>  
+  <object id="28" language="java" name="it.polimi.provaFinale2013.graphics.console.InputConsoleStream" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/console/InputConsoleStream.java" 
+    binary="false" label="inputConsoleStream" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="474" y="0"/>    
+    <execution id="14">      
+      <position height="21" width="203" x="380" y="520"/>    
+    </execution>    
+    <execution id="16">      
+      <position height="21" width="7" x="635" y="572"/>    
+    </execution>    
+    <execution id="23">      
+      <position height="124" width="203" x="537" y="337"/>    
+    </execution>  
+  </object>  
+  <object id="31" language="java" name="it.polimi.provaFinale2013.graphics.console.OutputConsoleStream" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/console/OutputConsoleStream.java" 
+    binary="false" label="outputConsoleStream" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="522" y="0"/>    
+    <execution id="19">      
+      <position height="96" width="203" x="744" y="663"/>    
+    </execution>    
+    <execution id="30">      
+      <position height="82" width="203" x="744" y="358"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="Console()">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="getIn():java.io.InputStream">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" operation="getOut():java.io.PrintStream">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="9" 
+    operation="CLIPlayer(java.io.PrintStream,java.io.InputStream,it.polimi.provaFinale2013.model.RemoteBank,java.lang.String)">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="13" operation="available():int" x="320" y="503">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>  
+  <message id="15" operation="read(byte[],int,int):int" x="371" y="554">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="16"/>  
+  </message>  
+  <message id="18" operation="write(byte[],int,int):void" x="482" y="641">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="19"/>  
+  </message>  
+  <message id="22">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="26">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="29" operation="write(byte[],int,int):void" x="674" y="340">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="30"/>  
+  </message>  
+  <message id="32" operation="append(java.lang.String):void" x="596" y="700">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="27"/>  
+  </message>  
+  <message id="33" operation="append(java.lang.String):void">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="24"/>  
+  </message>
+</sequence-diagram>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.3" icons="true">  
+  <object id="1" language="java" name="it.polimi.provaFinale2013.graphics.MenuWindow" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/MenuWindow.java" 
+    binary="false" label="menuWindow" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="384" y="0"/>    
+    <execution id="2">      
+      <position height="926" width="164" x="5" y="91"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="21" width="164" x="5" y="133"/>    
+    </execution>    
+    <execution id="6">      
+      <position height="21" width="7" x="84" y="165"/>    
+    </execution>    
+    <execution id="15">      
+      <position height="21" width="7" x="84" y="302"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="21" width="7" x="84" y="387"/>    
+    </execution>    
+    <execution id="12">      
+      <position height="21" width="7" x="84" y="465"/>    
+    </execution>  
+  </object>  
+  <object id="16" language="java" name="it.polimi.provaFinale2013.graphics.ClientServerWindow" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/ClientServerWindow.java" 
+    binary="false" label="clientServerWindow" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="942" y="0"/>    
+    <execution id="8">      
+      <position height="152" width="164" x="341" y="192"/>    
+    </execution>    
+    <execution id="18">      
+      <position height="84" width="164" x="341" y="222"/>    
+    </execution>    
+    <execution id="20">      
+      <position height="21" width="164" x="341" y="264"/>    
+    </execution>  
+  </object>  
+  <object id="21" language="java" name="it.polimi.provaFinale2013.graphics.HorseFeverWindow" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/HorseFeverWindow.java" 
+    binary="false" label="horseFeverWindow1" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1001" y="0"/>    
+    <execution id="14">      
+      <position height="457" width="164" x="341" y="539"/>    
+    </execution>  
+  </object>  
+  <object id="24" language="java" name="it.polimi.provaFinale2013.graphics.NetworkManager" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/NetworkManager.java" 
+    binary="false" label="networkManager" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>    
+    <execution id="23">      
+      <position height="408" width="164" x="509" y="567"/>    
+    </execution>    
+    <execution id="26">      
+      <position height="21" width="164" x="509" y="609"/>    
+    </execution>    
+    <execution id="37">      
+      <position height="21" width="7" x="588" y="699"/>    
+    </execution>  
+  </object>  
+  <object id="38" language="java" name="it.polimi.provaFinale2013.graphics.GUIPlayer" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/GUIPlayer.java" 
+    binary="false" label="guiPlayer" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1277" y="0"/>    
+    <execution id="32">      
+      <position height="21" width="164" x="677" y="748"/>    
+    </execution>  
+  </object>  
+  <object id="39" language="java" name="it.polimi.provaFinale2013.model.FamilyGame" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/model/FamilyGame.java" 
+    binary="false" label="familyGame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1217" y="0"/>    
+    <execution id="28">      
+      <position height="21" width="153" x="845" y="640"/>    
+    </execution>    
+    <execution id="30">      
+      <position height="63" width="153" x="845" y="678"/>    
+    </execution>    
+    <execution id="34">      
+      <position height="63" width="153" x="845" y="816"/>    
+    </execution>    
+    <execution id="36">      
+      <position height="21" width="153" x="845" y="933"/>    
+    </execution>  
+  </object>  
+  <object id="43" language="java" name="it.polimi.provaFinale2013.graphics.NetworkManager" 
+    project="horseFever_matteo.palvarini-gianluca1.venturini" 
+    file="/horseFever_matteo.palvarini-gianluca1.venturini/src/main/java/it/polimi/provaFinale2013/graphics/NetworkManager.java" 
+    binary="false" label="networkManager1" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1307" y="0"/>    
+    <execution id="42">      
+      <position height="21" width="164" x="1002" y="837"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="jButtonActionPerformed(java.awt.event.ActionEvent):void" x="137" y="107">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="displayClientServerWindow():void" x="139" y="142">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" operation="ClientServerWindow(it.polimi.provaFinale2013.graphics.ClientServerDelegate)" x="126" 
+    y="174">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="9" operation="displayServerIPWindow():void" x="136" y="370">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="11" operation="displayClientIPWindow():void" x="141" y="447">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="12"/>  
+  </message>  
+  <message id="13" operation="startGUINetworkClientGame(int,java.lang.String,java.lang.String):void" x="123" y="521">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>  
+  <message id="17" operation="setClientServer(boolean):void" x="98" y="282">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="19" operation="jButtonActionPerformed(java.awt.event.ActionEvent):void" x="308" y="245">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="20"/>  
+  </message>  
+  <message id="22" 
+    operation="getClientNetworkManager(java.lang.String,java.lang.String):it.polimi.provaFinale2013.graphics.NetworkManager">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="25" operation="initClient(java.lang.String,java.lang.String,int):void" x="642" y="590">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="26"/>  
+  </message>  
+  <message id="27" operation="FamilyGame()" x="712" y="623">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="28"/>  
+  </message>  
+  <message id="29" operation="getBank():it.polimi.provaFinale2013.model.RemoteBank">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="30"/>  
+  </message>  
+  <message id="31" operation="GUIPlayer(it.polimi.provaFinale2013.model.RemoteBank,java.lang.String)">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="32"/>  
+  </message>  
+  <message id="33" operation="addPlayer(it.polimi.provaFinale2013.model.Player):void">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="34"/>  
+  </message>  
+  <message id="35" operation="addObserver(it.polimi.provaFinale2013.model.GameObserver):void">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="36"/>  
+  </message>  
+  <message id="40">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="41" operation="addedPlayer():int">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="42"/>  
+  </message>
+</sequence-diagram>
